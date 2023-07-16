@@ -17,33 +17,6 @@ Estas personas han contribuido principalmente al proyecto de Moltodeli y que su 
 
 ## Iniciar el proyecto
 
-Para iniciar el proyecto tienes que tener instalado los siguiente: [Python 3.11](https://www.python.org/), [Node 18](https://nodejs.org/es), [Laragon (Recomendación)](https://laragon.org/download/index.html) y [DBeaver (Recomendación)](https://dbeaver.io/).
+Para iniciar el proyecto tienes que primero poder iniciar la API la cual puedes encontrar disponible en el siguiente repositorio dando [click aqui](https://github.com/damkandev/moltodeli-api)
 
-Luego de haber instalado las herramientas anteriormente mencionadas, tendrás que clonar el repositorio haciendo uso de:
-
-```git
-git clone https://github.com/damkandev/moltodeli
-```
-
-Luego de clonar el repositorio, entraras en el directorio haciendo uso de:
-
-```console
-cd moltodeli
-cd web
-```
-
-Una vez dentro de Moltodeli pondremos lo siguiente en la terminal para terminar de instalar la parte del frontend:
-
-```console
-npm install
-```
-
-Y luego iremos al diretorio de api, si has seguido todos los pasos hasta acá, tendrás que copiar y pegar los siguientes comandos.
-
-```console
-cd ..
-cd cd .\api\
-pip install requirements.txt
-```
-
-una vez lo hagamos, abriremos dos terminales, una en el directorio de api y otra en la web y pondremos en la terminal dentro de web.
+Luego de haber la
